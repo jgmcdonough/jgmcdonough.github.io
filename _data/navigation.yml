@@ -1,0 +1,21 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: CV
+  url: /pdf/CV_Driscoll.pdf
+
+- title: Research
+  url: /research/
+
+- title: Publications
+  url: /publications/
+
+#- title: Presentations
+#  url: /presentations/
+
+- title: Resources
+  url: /resources/
+
+#- title: DIBS
+#  url: http://www.sas.rochester.edu/bio/sites/wibs/
