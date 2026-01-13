@@ -1,20 +1,20 @@
 
 # Site wide configuration
 
-title: Rose Driscoll
+title: Julia McDonough
 locale: en_US
 logo: # logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Rose Driscoll
-  avatar: 2017-headshot-web-6086-square.jpg
+  name: Julia McDonough
+  avatar: /images/jgm_kayak.jpg
   bio: #
-  email: rdrisco2@ur.rochester.edu
+  email: julia_mcdonough@student.uml.edu
   twitter: #twitter username (no '@')
   linkedin: #linkedin
-  github: rose-driscoll
-  orcid: 0000-0002-1941-1008
+  github: jgmcdonough
+  orcid: 0009-0009-6630-588X
   researchgate: #researchgate username 
   mendeley: #mendeley username 
   google:
