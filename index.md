@@ -3,8 +3,8 @@ layout: home
 excerpt: "Home"
 ---
 
-I am a PhD student in the [Brisson lab](https://www.brissonlab.org/) at the [University of Rochester](https://www.rochester.edu/) in the [Department of Biology](https://www.sas.rochester.edu/bio/). My [research](/research/) focuses on the evolution of phenotypic plasticity in pea aphids.
+I am a PhD student in the [GW Lab]([www.g](https://gwlab.org/)) at the [University of Massachusetts Lowell](https://www.uml.edu/) in the [Department of Biological Sciences]([https://www.sas.rochester.edu/bio/](https://www.uml.edu/Sciences/biology/)). My [research](/research/) focuses on the molecular mechanisms of climate change stressor-induced carryover effects in eastern oysters.
 
-From 2020 to 2024, I was funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I am currently a [NRT SWIMMER Fellow](https://www.uml.edu/swimmer/) and was funded in 2024.
 
-I completed my B.A. in 2017 in the [Renn lab](https://www.reed.edu/biology/renn/) at [Reed College](https://www.reed.edu/).
+I completed my B.S. in 2022 in the [Brisson lab](https://www.brissonlab.org/) at the [University of Rochester](https://www.rochester.edu/).
